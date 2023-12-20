@@ -28,3 +28,4 @@ bin/
 ### Mac OS ###
 .DS_Store
 ProgressPlot.iml
+.idea/libraries/javafx.xml
